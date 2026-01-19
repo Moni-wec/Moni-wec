@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Monika  
 
-<!--
-**Moni-wec/Moni-wec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd year Information Science & Engineering Student  
+💻 Passionate about Programming & Technology  
+🌱 Currently learning: Java, Python, Data Science  
+📚 Interested in Software Development & Web Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Programming Languages:**  
+  - Java  
+  - Python  
+  - C  
+
+- **Web Technologies:**  
+  - HTML  
+  - CSS  
+  - Basic JavaScript  
+
+- **Tools & Platforms:**  
+  - Git & GitHub  
+  - VS Code  
+
+---
+
+## 📌 Academic Interests
+
+- Information Retrieval  
+- Data Science  
+- Software Engineering  
+- Cloud Computing  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Moni-wec 
+- Email: arivazhaganmonika@gmail.com
+
+---
+
+⭐ *Thank you for visiting my profile!*
